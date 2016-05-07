@@ -1,0 +1,15 @@
+{
+  "name": "fcc-imagesearch",
+  "version": "1.0.0",
+  "description": "This is my solution to FCC's Image Search challenge. For more information, please visit this link: https://www.freecodecamp.com/challenges/image-search-abstraction-layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
